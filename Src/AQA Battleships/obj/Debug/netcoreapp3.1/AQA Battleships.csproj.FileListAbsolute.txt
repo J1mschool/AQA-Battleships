@@ -1,0 +1,13 @@
+C:\Users\redwo\Desktop\School\A levels\Comp Sci\Assessments\Paper 1 mock Jan 2022\Src\AQA Battleships\obj\Debug\netcoreapp3.1\AQA Battleships.csproj.AssemblyReference.cache
+C:\Users\redwo\Desktop\School\A levels\Comp Sci\Assessments\Paper 1 mock Jan 2022\Src\AQA Battleships\obj\Debug\netcoreapp3.1\AQA Battleships.AssemblyInfoInputs.cache
+C:\Users\redwo\Desktop\School\A levels\Comp Sci\Assessments\Paper 1 mock Jan 2022\Src\AQA Battleships\obj\Debug\netcoreapp3.1\AQA Battleships.AssemblyInfo.cs
+C:\Users\redwo\Desktop\School\A levels\Comp Sci\Assessments\Paper 1 mock Jan 2022\Src\AQA Battleships\obj\Debug\netcoreapp3.1\AQA Battleships.csproj.CoreCompileInputs.cache
+C:\Users\redwo\Desktop\School\A levels\Comp Sci\Assessments\Paper 1 mock Jan 2022\Src\AQA Battleships\bin\Debug\netcoreapp3.1\AQA Battleships.exe
+C:\Users\redwo\Desktop\School\A levels\Comp Sci\Assessments\Paper 1 mock Jan 2022\Src\AQA Battleships\bin\Debug\netcoreapp3.1\AQA Battleships.deps.json
+C:\Users\redwo\Desktop\School\A levels\Comp Sci\Assessments\Paper 1 mock Jan 2022\Src\AQA Battleships\bin\Debug\netcoreapp3.1\AQA Battleships.runtimeconfig.json
+C:\Users\redwo\Desktop\School\A levels\Comp Sci\Assessments\Paper 1 mock Jan 2022\Src\AQA Battleships\bin\Debug\netcoreapp3.1\AQA Battleships.runtimeconfig.dev.json
+C:\Users\redwo\Desktop\School\A levels\Comp Sci\Assessments\Paper 1 mock Jan 2022\Src\AQA Battleships\bin\Debug\netcoreapp3.1\AQA Battleships.dll
+C:\Users\redwo\Desktop\School\A levels\Comp Sci\Assessments\Paper 1 mock Jan 2022\Src\AQA Battleships\bin\Debug\netcoreapp3.1\AQA Battleships.pdb
+C:\Users\redwo\Desktop\School\A levels\Comp Sci\Assessments\Paper 1 mock Jan 2022\Src\AQA Battleships\obj\Debug\netcoreapp3.1\AQA Battleships.dll
+C:\Users\redwo\Desktop\School\A levels\Comp Sci\Assessments\Paper 1 mock Jan 2022\Src\AQA Battleships\obj\Debug\netcoreapp3.1\AQA Battleships.pdb
+C:\Users\redwo\Desktop\School\A levels\Comp Sci\Assessments\Paper 1 mock Jan 2022\Src\AQA Battleships\obj\Debug\netcoreapp3.1\AQA Battleships.genruntimeconfig.cache
